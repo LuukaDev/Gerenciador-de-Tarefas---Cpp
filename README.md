@@ -1,6 +1,10 @@
 # Gerenciador-de-Tarefas---Cpp
 
-# Documentação do Gerenciador de Tarefas
+![C++3](https://github.com/user-attachments/assets/a419e2db-96c6-421d-a9e9-a94ecd91497b)
+![C++1](https://github.com/user-attachments/assets/151cfc91-7d5b-45e7-9883-9b4b244bc8f4)
+
+
+
 
 ## Visão Geral
 
